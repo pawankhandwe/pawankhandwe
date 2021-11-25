@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋 ✔️
+I am pawan Khandwe , I am Java Developer ,I am From India.
+IF you want to help me in improving or guiding to develop my skills or anything 
+related to my field please connect with me on Linkdin. 
+here is the link of my linkdin profile ➡️ 
+https://www.linkedin.com/in/pawan-khandwe-4b7b961a2/
+
+ThankYou ✨
 
 <!--
 **pawankhandwe/pawankhandwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
