@@ -9,7 +9,6 @@ https://www.linkedin.com/in/pawan-khandwe-4b7b961a2/
 <img src='https://e7.pngegg.com/pngimages/724/306/png-clipart-c-logo-c-programming-language-icon-letter-c-blue-logo.png' alt="C" height=40 width=40><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png' alt="C++" height=40 width=40><img src='https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png' alt="Java" height=40 width=40><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png' alt="HTML" height=40 width=40><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' alt="CSS" height=40 width=40>
 
 
-<img src='https://thumbs.dreamstime.com/z/sql-database-web-language-programming-designing-logo-monogram-symbol-sites-banners-171784940.jpgs' alt="SQL" height=40 width=40>
 
 ## Connect with me 
 
