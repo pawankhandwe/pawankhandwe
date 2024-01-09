@@ -14,7 +14,7 @@ https://www.linkedin.com/in/pawan-khandwe-4b7b961a2/
 
 <a href="https://www.linkedin.com/in/pawan-khandwe-4b7b961a2/">
          <img alt="Linkdin" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png"
-         width=50" height="50"><a href="https://www.instagram.com/pawan_i3/">
+         width=50" height="50"><a href="https://www.instagram.com/pawan_khandwe/">
          <img alt="Instagram" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png"
          width=50" height="50"><a href="https://twitter.com/KhandwePawan">
          <img alt="Twitter" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBnAP1XTnQm0RrXsy5p2xqe_LfEdC0kY1Xc-NiszlIKFtBrWnoF8E1oIc3Nqmx4v-bmDM&usqp=CAU"
