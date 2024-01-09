@@ -1,5 +1,5 @@
 ### Hi there 👋 ✔️
-I am pawan Khandwe , I am Java Developer ,I am From India.
+I am pawan Khandwe , I am Front-End Developer ,I am From India.
 IF you want to help me in improving or guiding to develop my skills or anything 
 related to my field please connect with me on Linkdin. 
 here is the link of my linkdin profile ➡️ 
